@@ -39,7 +39,7 @@ In this project I used:
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-hortone-abaga-a078b2219/)](https://www.linkedin.com/in/william-hortone-abaga-a078b2219/)
+[![Linkedin: William Hortone](https://img.shields.io/badge/-WilliamHortone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-hortone-abaga-a078b2219/)](https://www.linkedin.com/in/william-hortone-abaga-a078b2219/)
 
 
 
