@@ -1,10 +1,7 @@
 # linkedin-clone
 
-This project is a pesonal challenge. The main idea was to ###clonne_Linkedin.
-In this project I used:
+This project is a pesonal challenge. The main idea was to clone Linkedin.
 
-
-## What I used
 
 <h3> 👨🏻•💻 About Me </h3>
 
