@@ -2,22 +2,11 @@
 
 This project is a pesonal challenge. The main idea was to ###clonne_Linkedin.
 In this project I used:
-###HTML5
-###CSS3
-###JAVASCRIPT
-And a little ###Bootstrap
 
 
-
-I added different functionalities like ###The_dynamic_search , Create new random publication when the scroll reach the end. The project it's ###responsive  publication
-
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 ## What I used
 
 <h3> 👨🏻•💻 About Me </h3>
-
 
 
 - 🤔 &nbsp; Exploring new technologies and web development and quick hacks.
@@ -42,3 +31,16 @@ I added different functionalities like ###The_dynamic_search , Create new random
 - &nbsp; Messaging page
 - &nbsp; Social page
 
+<h3>🔧 Some functionalities on the project </h3>
+
+-  &nbsp; The responsive design
+-  &nbsp; Dynamic search 
+-  &nbsp; New random publication when the scroll reach the end. 
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-hortone-abaga-a078b2219/)](https://www.linkedin.com/in/william-hortone-abaga-a078b2219/)
+
+
+
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
