@@ -41,6 +41,6 @@ In this project I used:
 
 [![Linkedin: William Hortone](https://img.shields.io/badge/-WilliamHortone-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-hortone-abaga-a078b2219/)](https://www.linkedin.com/in/william-hortone-abaga-a078b2219/)
 
+[![GitHub William-Hortone](https://img.shields.io/github/followers/William-Hortone?label=follow&style=social)](https://github.com/William-Hortone)
 
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
