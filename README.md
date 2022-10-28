@@ -8,7 +8,7 @@ This project is a pesonal challenge. The main idea was to clone Linkedin.
 
 - 🤔 &nbsp; Exploring new technologies and web development and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Studying Software Engineering at Jiangsu Normal University in China.
 
 - ✍️ &nbsp; Learning about Front-end development.
 
