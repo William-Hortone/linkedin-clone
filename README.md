@@ -6,7 +6,6 @@ This project is a pesonal challenge. The main idea was to clone Linkedin.
 <hr>
 
 
-
 <h3>🛠 Tech Stack I used on this project </h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
@@ -26,6 +25,12 @@ This project is a pesonal challenge. The main idea was to clone Linkedin.
 -  &nbsp; The responsive design
 -  &nbsp; Dynamic search 
 -  &nbsp; New random publication when the scroll reach the end. 
+
+
+<h3> Visite this project </h3>
+https://linkedin-clone3.netlify.app/
+
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
