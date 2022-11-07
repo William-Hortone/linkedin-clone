@@ -5,19 +5,6 @@ This project is a pesonal challenge. The main idea was to clone Linkedin.
 
 <hr>
 
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-
-<h3> 👨🏻•💻 About Me </h3>
-
-- 👨 I'm  William Hortone 
-
-- 🤔 &nbsp; Exploring new technologies and web development and quick hacks.
-
-- 🎓 &nbsp; Studying Software Engineering at Jiangsu Normal University in China.
-
-- ✍️ &nbsp; Learning about Front-end development.
-
 
 
 <h3>🛠 Tech Stack I used on this project </h3>
